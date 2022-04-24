@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Dell\source\repos\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Dell\source\repos\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Dell\source\repos\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\Dell\source\repos\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Dell\source\repos\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Dell\source\repos\CalculatorApp\obj\Debug\CalculatorApp.pdb
